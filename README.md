@@ -1,8 +1,8 @@
-# 🧠 Simulación de Búsqueda para Alineación de Block de Motor
+#Simulación de Búsqueda para Alineación de Block de Motor
 
 Este proyecto contiene dos algoritmos que simulan cómo un robot podría buscar la posición exacta de alineación del block de un motor, utilizando estrategias de búsqueda automatizada.
 
-## 🔍 Descripción
+##Descripción
 
 Se desarrollaron dos enfoques distintos de búsqueda:
 
@@ -13,7 +13,7 @@ Ambos algoritmos permiten simular el caso en el que el block (posición `A`) pue
 
 ---
 
-## 📂 Contenido del Repositorio
+##Contenido del Repositorio
 
 | Archivo                          | Descripción                                           |
 |----------------------------------|--------------------------------------------------------|
@@ -22,7 +22,7 @@ Ambos algoritmos permiten simular el caso en el que el block (posición `A`) pue
 
 ---
 
-## ▶️ Cómo ejecutar
+##Cómo ejecutar
 
 ### Requisitos:
 - Python 3.x (ninguna librería externa requerida)
@@ -44,7 +44,7 @@ Luego se te pedirá que ingreses en qué nodo está el objetivo `A`. Por ejemplo
 
 ---
 
-## 📊 Ejemplo de comparación
+##Ejemplo de comparación
 
 | Caso                 | Camino BFS                   | Pasos BFS | Camino A\*                   | Pasos A\* |
 |----------------------|-------------------------------|-----------|-------------------------------|-----------|
@@ -53,7 +53,7 @@ Luego se te pedirá que ingreses en qué nodo está el objetivo `A`. Por ejemplo
 
 ---
 
-## 🛠 Autor
+##Autor
 
 Iván Bustamante  
 Trabajo práctico para la materia de Inteligencia Artificial - Módulo 2  
